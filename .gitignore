@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Dataset
+data/
+
+# Training outputs (optional)
+outputs/
+
+# Checkpoints (optional)
+checkpoints/
