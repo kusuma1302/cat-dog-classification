@@ -11,5 +11,3 @@ data/
 # Training outputs (optional)
 outputs/
 
-# Checkpoints (optional)
-checkpoints/
